@@ -2,6 +2,11 @@ body {
     background-color: rgba(245, 245, 0, 0.1);
 }
 
+footer {
+position: relative;
+bottom:0;
+}
+
 h1 {
     text-align: center;
     font-size: 3vw;
